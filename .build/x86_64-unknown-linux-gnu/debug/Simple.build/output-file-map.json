@@ -1,0 +1,11 @@
+{
+  "": {
+    "swift-dependencies": "/home/mustafa-shihab/project/isp/.build/x86_64-unknown-linux-gnu/debug/Simple.build/master.swiftdeps"
+  },
+  "/home/mustafa-shihab/project/isp/main.swift": {
+    "dependencies": "/home/mustafa-shihab/project/isp/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.d",
+    "object": "/home/mustafa-shihab/project/isp/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swift.o",
+    "swiftmodule": "/home/mustafa-shihab/project/isp/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main~partial.swiftmodule",
+    "swift-dependencies": "/home/mustafa-shihab/project/isp/.build/x86_64-unknown-linux-gnu/debug/Simple.build/main.swiftdeps"
+  }
+}

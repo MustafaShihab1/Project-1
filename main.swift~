@@ -1,0 +1,102 @@
+var state = ""
+//var city: String
+var score = 0 
+print("type a capital city in the US ! ")
+while let city = readLine() {
+
+switch (city) {
+              case "Austin":
+                  state = "Texas"
+                  score += 1
+                    //print("Dallas")
+              case "Las Vegas":
+                  state = "Navada"
+                 score += 1
+              case "Nashville":
+                  state = "Tennessee"
+                  score += 1
+              case "Phoenix":
+                  state = "Arizona"
+                  score += 1
+              case "Albany":
+                  state = "New York"
+                  score += 1
+              case "Montgomery":
+                  state = "Alabama"
+                  score += 1
+              case "Sacramento":
+                  state = "California"
+                  score += 1
+              case "Tallahassee":
+                  state = "Florid"
+                  score += 1
+              case "Honolulu":
+                  state = "Hawaii"
+                  score += 1
+              case "Lansing":
+                  state = "Michigan"
+                  score += 1
+              case "Boston":
+                  state = "Massachusetts"
+                  score += 1
+              case "Jackson":
+                  state = "Mississippi"
+                  score += 1
+              case "Helena":
+                  state = "Montana"
+                  score += 1
+              case "Trenton":
+                  state = "New Jersey"
+                  score += 1
+              case "Santa Fe":
+                  state = "New Mexico"
+                  score += 1
+              case "Albany":
+                  state = "New York"
+                  score += 1
+              case "Oklahoma City":
+                  state = "Oklahoma"
+                  score += 1
+              case "Salt Lake City":
+                  state = "Utah"
+                  score += 1
+              case "Charleston":
+                  state = "West Virginia"
+                  score += 1
+              case "Richmond":
+                  state = "Virginia"
+                  score += 1
+                  
+                  
+                                  
+                                                  
+              default:
+                  print("This is not a Capital")
+}
+
+print(state)
+print("Score:", score)
+}
+
+/*
+print("Where is Dallas ")
+ state = readLine()
+if input == ("Texas") {
+    print("Correct!")
+} else {
+    print("Incorrect!")
+    print("Correct answer: Texas")
+}
+
+print("Where is Las vegas ")
+state = readLine()
+if input == ("Nevada") {
+    print("Correct!")
+} else {
+    print("Incorrect!")
+    print("Correct answer:Nevada")
+}
+
+*/
+
+
